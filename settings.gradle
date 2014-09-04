@@ -1,2 +1,2 @@
 rootProject.name = 'Gondor Test'
-
+include 'gondor'
